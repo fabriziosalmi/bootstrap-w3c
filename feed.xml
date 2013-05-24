@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+<title>Million Media Pages</title>
+<description>when you are looking for simple media files and you got it</description>
+<link>http://millionmediapages.com/</link>
+<copyright>© 2013</copyright>
+<generator>MMP-FEEDGENERATOR</generator>
+<language>en-en</language>
+<ttl>60</ttl>
+
+<item>
+<title>latest</title>
+<link>http://millionmediapages.com/latest/</link>
+<description><![CDATA[<p>when you are looking for simple media files and you got it</p>]]></description>
+<dc:creator>MMP-FEEDGENERATOR</dc:creator>
+<category>mmp</category>
+<pubDate>Fri, 24 May 2013 04:49:00 +0200</pubDate>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://millionmediapages.com/</title>
+  <link>http://millionmediapages.com/</link>
+
+<item>
+     <link>http://millionmediapages.com/</link>
+     <title>Million Media Pages</title>
+     <description>when you are looking for simple media files and you got it</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://millionmediapages.com/latest/</link>
+     <title>Million Media Pages | latest</title>
+     <description>when you are looking for simple media files and you got it</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://millionmediapages.com/privacy/</link>
+     <title>Million Media Pages | privacy </title>
+     <description>when you are looking for simple media files and you got it</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://millionmediapages.com/disclaimer/</link>
+     <title>Million Media Pages | disclaimer</title>
+     <description>when you are looking for simple media files and you got it</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
