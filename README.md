@@ -12,14 +12,13 @@ Sitemap and RSS/ATOM feed compliant.<br />
 Google/Bing search guidelines compliant.<br />
 Meta tags, final trailing slashes rewrites, basic anti-bot and hotlinking block htaccess rules added.<br />
 Sitemap, RSS/ATOM feed, Facebook page, Google+ page ready link placeholders and file examples.<br />
-Nibbler score: 8,1 (no errors, just warnings, in the top 2K sites).<br />
-SortSite score: no errors, just warnings.<br />
 Ongoing WCAG compliance.<br />
 Ongoing color blindness compliance.<br />
+Nibbler score: 8,1 (no errors, just warnings, in the top 2K sites).<br />
+SortSite score: no errors, just warnings.<br />
+Pagespeed score: 92/100.<br />
+Pingdom score: better than 99% websites scanned.<br />
 <br />
-This is an aplha release, real world testing on http://millionmediapages.com example web site.<br />
-If you wanna bore me for all of this (beacuse I'm not a geek like You) just write me or comment wherever You want.<br />
-<br />
-Good things comes from teams and not by individuals.<br />
+Real world example web site http://millionmediapages.com <br />
 -fab23-
 
