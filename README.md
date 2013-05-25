@@ -9,6 +9,7 @@ W3C CSS compliant.<br />
 SECTION508 compliant.<br />
 US/EU privacy compliant.<br />
 Sitemap and RSS/ATOM feed compliant.<br />
+W3C P3P privacy not yet achieved.<br />
 WCAG compliance not yet achieved.<br />
 Color blindness compliance not yet achieved.<br /><br />
 <b>SEO</b><br>
