@@ -1,11 +1,11 @@
 bootstrap-w3c
 =============
 <br />
-Mixing latest best techniques (bootstrap framework) and most common accessibility guidelines to realize a compliant HTML/CSS/JS skeleton 
-when you need to build compliant websites.<br />
+Mixing bootstrap framework and most common accessibility guidelines to realize a compliant HTML/CSS/JS skeleton useful 
+when you need to build compliant websites quickly.<br />
 <br />
 <b>Accessibility</b><br />
-W3C HTML+CSS compliant.<br />
+W3C CSS compliant.<br />
 SECTION508 compliant.<br />
 US/EU privacy compliant.<br />
 Sitemap and RSS/ATOM feed compliant.<br />
