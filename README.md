@@ -8,12 +8,12 @@ where websites run faster, stronger, harder, better and easier than ever :)<br /
 W3C HTML+CSS compliant.<br />
 WCAG/SECTION508 compliant.<br />
 US/EU privacy compliant.<br />
-Sitemap and RSS/ATOM feed compliant.<br />
+Sitemap and RSS/ATOM feed compliant.<br /><br />
 <b>SEO</b><br>
 Google/Bing search guidelines compliant.<br />
 Meta tags, final trailing slashes rewrites, basic anti-bot and hotlinking block htaccess features.<br />
 Facebook page, Google+ page placeholders to achieve best SEO results.<br />
-Color blindness compliance not yet achieved.<br />
+Color blindness compliance not yet achieved.<br /><br />
 <b>Scores</b><br />
 Google PageSpeed: 95/100
 Silktide Nibbler: 8,1/10
