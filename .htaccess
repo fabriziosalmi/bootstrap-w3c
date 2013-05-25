@@ -8,7 +8,7 @@
 RewriteEngine On
 RewriteCond %{HTTP_REFERER} !^http://(.+\.)?millionmediapages\.com/ [NC]
 RewriteCond %{HTTP_REFERER} !^$
-RewriteRule .*\.(jpe?g|gif|bmp|png)$ /assets/img/nohotlink.jpg [L]
+RewriteRule .*\.(jpe?g|gif|bmp|png)$ /assets/img/nohotlink.png [L]
 
 # M4DSh4k:[USER AGENTS Spam bot Disabler]
 <ifModule mod_setenvif.c>
