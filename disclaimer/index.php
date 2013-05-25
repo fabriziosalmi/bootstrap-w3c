@@ -16,7 +16,9 @@
         <link href="http://millionmediapages.com/assets/css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="http://millionmediapages.com/assets/css/style.css" rel="stylesheet" type="text/css">
         <link rel="alternate" type="application/rss+xml" title="RSS" href="http://millionmediapages.com/feed.xml">
-        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+                <link rel="P3Pv1" href="http://millionmediapages.com/privacy/p3p.xml" />
+
+                <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->

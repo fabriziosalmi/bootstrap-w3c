@@ -16,7 +16,9 @@
         <link href="http://millionmediapages.com/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link href="http://millionmediapages.com/assets/css/style.css" rel="stylesheet" type="text/css">
         <link rel="alternate" type="application/rss+xml" title="RSS" href="http://millionmediapages.com/feed.xml">
-        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+                <link rel="P3Pv1" href="http://millionmediapages.com/privacy/p3p.xml" />
+
+                <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
@@ -53,17 +55,61 @@
 
 
                         <div class="well align-center">
-                            <h2>Privacy</h2>
-                            <hr>
-                            <h3>What information do we collect? </h3>
-
-                            When ordering or registering on our site, as appropriate, you may be asked to enter up to 100 chars string or phrase even without any sense.
-                            <hr>
-                            <h3>Terms and Conditions</h3>
-
-                            Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://millionmediapages.com/disclaimer/">http://millionmediapages.com/disclaimer/</a>
-                            <hr>
-                            <h3>Your Consent </h3>
+                            <h1>Privacy Policy</h1>
+<h2>Contacting Us</h2>
+<p>Fabrizio Salmi<br />
+via xxx 30<br />
+Roma, Italy 00100<br />
+340xxxxxx<br />
+<a href="http://millionmediapages.com">http://millionmediapages.com</a><br />
+<a href="mailto:fabrizio.salmi@gmail.com">fabrizio.salmi@gmail.com</a>
+</p>
+<h2>Dispute Resolution</h2>
+<p></p>
+<p>Disputes will be handled by our customer service as outline at
+<a href="http://millionmediapages.com/privacy/">http://millionmediapages.com/privacy/</a>.
+Our customer service will correct the errors.</p>
+<h2>Data Collection</h2>
+<p>Google analytics data is used to achieve more visitors and a better experience when visiting the website.</p>
+<p>We collect the following information:</p>
+<ul>
+  <li>dynamic.clickstream</li>
+  <li>dynamic.clickstream.uri</li>
+  <li>dynamic.clickstream.timestamp</li>
+  <li>dynamic.clickstream.timestamp.ymd</li>
+  <li>dynamic.clickstream.timestamp.hms</li>
+  <li>dynamic.clickstream.clientip</li>
+  <li>dynamic.clickstream.clientip.hostname</li>
+  <li>dynamic.clickstream.clientip.fullip</li>
+  <li>dynamic.clickstream.other</li>
+  <li>dynamic.clickstream.other.httpmethod</li>
+  <li>dynamic.clickstream.other.bytes</li>
+  <li>dynamic.clickstream.other.statuscode</li>
+  <li>dynamic.http</li>
+  <li>dynamic.http.referer</li>
+  <li>dynamic.http.referer.authority</li>
+  <li>dynamic.http.referer.stem</li>
+  <li>dynamic.http.referer.querystring</li>
+  <li>dynamic.http.useragent</li>
+  <li>dynamic.clientevents</li>
+  <li>dynamic.searchtext</li>
+  <li>dynamic.interactionrecord</li>
+</ul>
+<p>We collect this data for the following reasons:</p>
+<ul>
+  <li><b>Web Site and System Administration:</b> Information may be used for the technical support of the Web site and its computer system. This would include processing computer account information, information used in the course of securing and maintaining the site, and verification of Web site activity by the site or its agents.</li>
+  <li><b>Other Uses:</b> Information may be used in other ways not captured by the above definitions. (A human readable explanation MUST be provided in these instances).</li>
+  <li><b>Research and Development:</b> Information may be used to enhance, evaluate, or otherwise review the site, service, product, or market. This does not include personal information used to tailor or modify the content to the specific individual nor information used to evaluate, target, profile or contact the individual.</li>
+</ul>
+<h2>Cookies</h2>
+<p>Cookies are a technology which can be used to provide you with tailored information
+from a Web site. A cookie is an element of data that a Web site can send to your
+browser, which may then store it on your system. You can set your browser to notify
+you when you receive a cookie, giving you the chance to decide whether to accept it.</p>
+<p>Our site uses the following cookies:</p>
+<ul>
+  <li>* * * /</li>
+</ul>
 
                             By using our site, you consent to our web site privacy policy.
 
