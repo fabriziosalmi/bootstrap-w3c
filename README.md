@@ -19,7 +19,7 @@ Facebook page, Google+ page placeholders to achieve best SEO results.<br />
 Google PageSpeed: 95/100<br />
 Silktide Nibbler: 8,1/10<br />
 Powermapper SortSite: NO ERRORS<br />
-www.websiteoptimization.com: 1 ERROR<br />
+Websiteoptimization: 1 ERROR<br />
 Pingdom: 99/100<br />
 <br />
 Example website: http://millionmediapages.com
