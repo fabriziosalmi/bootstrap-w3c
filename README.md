@@ -24,5 +24,4 @@ Powermapper SortSite: NO ERRORS<br />
 Websiteoptimization: 1 ERROR<br />
 Pingdom: 99/100<br />
 <br />
-Example website: http://millionmediapages.com
 
